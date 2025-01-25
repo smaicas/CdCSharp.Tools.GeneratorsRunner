@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Generators Runner NJBlazor": {
+      "commandName": "Project",
+      "commandLineArgs": "g -p C:\\_WORK\\DOTNET\\NJBLAZOR\\Code\\src\\CdCSharp.NjBlazor -o C:\\_WORK\\DOTNET\\NJBLAZOR\\Code\\src\\CdCSharp.NjBlazor\\Generated"
+    }
+  }
+}

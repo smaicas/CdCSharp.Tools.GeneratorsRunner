@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/smaicas/CdCSharp.Tools.GeneratorsRunner/dotnet.yml?branch=<BRANCH>)](https://github.com/smaicas/CdCSharp.Tools.GeneratorsRunner/actions/workflows/dotnet.yml)
 
 🚀 Run IIncrementalGenerators manually.
-🚀 Create sequential IIncrementalGenerators pipeline
+🚀 Create sequential IIncrementalGenerators pipeline.
 
 ## 🌟 Features
 
