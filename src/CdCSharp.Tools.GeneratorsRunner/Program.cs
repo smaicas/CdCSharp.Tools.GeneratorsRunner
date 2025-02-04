@@ -9,7 +9,7 @@ FCli cli = new FCli()
                .WithAlias("g")
                .WithDescription("Run source generators")
                .OnExecute(async (args)
-                    => await GeneratorExecutor.RunGenerators(args.ProjectPath, args.OutputPath));
+                    => await GeneratorRunner.RunGenerators(args.ProjectPath, args.OutputPath));
 
 await cli.ExecuteAsync(args);
 
